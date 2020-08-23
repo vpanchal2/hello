@@ -13,7 +13,8 @@
     
     printf("vishal panchal!\n");
     printf("computer science\n");
-
+    printf("Khoa Le\n");
+    printf("Computer science\n");
   return 0;
   
 }
